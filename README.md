@@ -65,7 +65,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:Moses-chibuike/Awesome-books-ES6.git
+  git clone git@github.com:david30-maker/Awesome-book-ES6.git
 ```
 
 ### Usage
@@ -86,11 +86,11 @@ You can deploy this project using: Netlify, and some other hosting service: <a h
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Aya**
+👤 *Okpah**
 
-- GitHub: [@Moses-chibuike](https://github.com/Moses-chibuike/)
-- Twitter: [Ezechukwuchibu2](https://twitter.com/Ezechukwuchibu2)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ezechukwu-chibuike/)
+- GitHub: [@githubhandle](https://github.com/david30-maker)
+- Twitter: [@twitterhandle](https://twitter.com/davidigbo) 
+- LinkedIn: [LinkedIn](https://linkedin.com/in/dvid-igbo-464196184/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
