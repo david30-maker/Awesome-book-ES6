@@ -1,5 +1,5 @@
 /* eslint-disable  max-classes-per-file */
-/*import Book from './details.js';*/
+import Book from './details.js';
 
 export default class Display {
   static getBooks = () => {
