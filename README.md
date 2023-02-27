@@ -129,7 +129,7 @@ I would like to thank Microverse
 
 - **How to make it mobile friendly?**
 
-  - Put a viewport tag in the header
+  - Put a viewport tag in the header.
 
 - **How to design the site?**
 
