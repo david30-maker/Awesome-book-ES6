@@ -1,5 +1,5 @@
-/**import Display from './modules/functions.js';
-import { DateTime } from './modules/luxon.js';
+/*import Display from './modules/functions.js';
+import { DateTime } from './modules/luxon.js';*/
 
 const booksList = document.querySelector('.books-list');
 const addBooks = document.querySelector('.add-book');
@@ -44,7 +44,7 @@ form.addEventListener('submit', (evt) => {
   form.reset();
 });
 
-const showDateTime = () => {
+/*const showDateTime = () => {
   const time = DateTime.now();
   const curTime = time.toLocaleString(DateTime.DATETIME_FULL_WITH_SECONDS);
 
