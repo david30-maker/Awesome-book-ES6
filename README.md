@@ -25,10 +25,10 @@
 
 > A website which display list of books
 
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
+
 HTML, CSS, Javascript
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -43,9 +43,10 @@ HTML, CSS, Javascript
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🚀 Live Demo <a name="live-demo"></a>
- This project hasn't been deployed yet, anticipate in coming versions
+
+https://david30-maker.github.io/Awesome-book-ES6/
+This project hasn't been deployed yet, anticipate in coming versions
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -76,7 +77,6 @@ To run the project, Run `Live Server` from VSCode.
 
 Coming..
 
-
 ### Deployment
 
 You can deploy this project using: Netlify, and some other hosting service: <a href="https://glitch.com/">glitch</a>, <a href="https://replit.com/">replit</a>
@@ -85,13 +85,11 @@ You can deploy this project using: Netlify, and some other hosting service: <a h
 
 ## 👥 Authors <a name="authors"></a>
 
-
-👤 *Okpah**
+👤 \*Okpah\*\*
 
 - GitHub: [@githubhandle](https://github.com/david30-maker)
-- Twitter: [@twitterhandle](https://twitter.com/davidigbo) 
+- Twitter: [@twitterhandle](https://twitter.com/davidigbo)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/dvid-igbo-464196184/)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,7 +98,6 @@ You can deploy this project using: Netlify, and some other hosting service: <a h
 > Describe 1 - 3 features you will add to the project.
 
 - [ ] **Responsive on mobile**
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,8 +117,7 @@ If you like this project, give it a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse 
-
+I would like to thank Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
