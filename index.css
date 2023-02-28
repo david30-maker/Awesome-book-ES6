@@ -144,7 +144,12 @@ h3 {
 }
 
 .contact p {
-  text-align: left;
+  text-align: center;
+}
+
+.address-1 ul li {
+  text-align: center;
+  list-style: none;
 }
 
 .copy-right {
