@@ -45,7 +45,6 @@ HTML, CSS, Javascript
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-https://david30-maker.github.io/Awesome-book-ES6/
 This project hasn't been deployed yet, anticipate in coming versions
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
